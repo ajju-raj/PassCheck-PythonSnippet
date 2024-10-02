@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-This project is a **basic password strength checker** that evaluates password security using multiple methods. It's designed as the **0th project** in your cybersecurity journey and incorporates one of the most advanced password strength-checking libraries, `zxcvbn`, as well as custom password validation checks.
+This project is a **basic password strength checker** that evaluates password security using multiple methods. It's designed as the **0th project** in my cybersecurity journey and incorporates one of the most advanced password strength-checking libraries, `zxcvbn`, as well as custom password validation checks.
 
 ## Features
 
